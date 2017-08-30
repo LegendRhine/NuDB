@@ -1,3 +1,18 @@
+1.0.2
+
+* Better CMakeLists.txt for finding Boost
+* Fix typo in nudb tool
+* Remove error::success (API Change)
+* Update Travis to Boost 1.61.0
+
+---
+
+1.0.1
+
+* Travis: Limit the number of jobs
+
+---
+
 1.0.0
 
 * First Official Release!
